@@ -1,4 +1,4 @@
-use super::method::{Method, self, MethodError};
+use super::method::{Method, MethodError};
 use std::str;
 use std::convert::TryFrom;
 use std::error::Error;
